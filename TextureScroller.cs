@@ -5,6 +5,7 @@ using UnityEngine;
 using TMPro;
 using UnityEngine;
 
+//a script to swap textures on a TextMesh Pro text face
 //set textures to repeat in assets
 
 public class TextureScrollLoop : MonoBehaviour
